@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://emptywording.github.io
+title: empty wording
+email: jessepinkmanned@gmail.com
+author: molli
+description: an open space for my mind.
+paginate: 50
+google_analytics: 
